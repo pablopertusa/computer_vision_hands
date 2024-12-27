@@ -1,0 +1,5 @@
+proximos pasos
+
+hay que hacer un datagenerator que vaya leyendo las imagenes y procesandolas (con la 
+clase custompreprocesorbovw que ya esta bien) al vuelo.
+luego hacer una red neuronal bastante grande, con earlystopping
